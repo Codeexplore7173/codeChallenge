@@ -18,7 +18,7 @@ public class day_one {
             arr1[i]=scn.nextInt();
         }
 
-        System.out.println("Enter element of array2: ");
+        System.out.println("Enter element of array2:");
         for(int i=0;i<size1;i++){
             arr2[i]=scn.nextInt();
         }
